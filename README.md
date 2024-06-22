@@ -12,7 +12,7 @@ Features
 * Delete completed tasks
 * Delete all tasks
 
-### Technologies used:
+Technologies used:
 * HTML
 * CSS
 * JavaScript
